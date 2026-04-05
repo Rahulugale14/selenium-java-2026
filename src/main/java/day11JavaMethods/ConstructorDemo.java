@@ -26,7 +26,7 @@ public class ConstructorDemo {
         ConstructorDemo cd = new ConstructorDemo();         //this will invoke default Constructor
         cd.sum();
 
-        ConstructorDemo cdm = new ConstructorDemo(10,20); //this will invoke parameterized Constructor
+        ConstructorDemo cdm = new ConstructorDemo(105,205);// will invoke parameterized Constructor
         cdm.sum();
 
         }
